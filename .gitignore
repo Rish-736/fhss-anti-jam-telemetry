@@ -1,0 +1,60 @@
+# ---------------------------------------------------------------------
+# Third-party papers. These are copyrighted IEEE/Elsevier PDFs kept
+# locally for reference while writing. They must never be redistributed.
+# ---------------------------------------------------------------------
+papers/
+*.pdf.download
+
+# ---------------------------------------------------------------------
+# Build artefacts and editor leftovers
+# ---------------------------------------------------------------------
+paper/build/
+paper/*.bak
+paper/*.bak[0-9]
+~$*
+*.tmp
+
+# One-off migration scripts used while revising the manuscript. Their
+# result is already baked into build_paper.py, so they are history, not
+# source.
+paper/reposition.py
+paper/keyify.py
+paper/add_algos.py
+paper/add_formulas.py
+paper/cite_recent.py
+paper/fix_review.py
+paper/fix_review2.py
+
+# The IEEE Transactions template is redistributed by IEEE, not by us.
+# Download it from the IEEE author centre if you want to rebuild.
+paper/template.docx
+
+# ---------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------
+# OS
+# ---------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------------
+# Internal course / viva preparation material. Useful locally, not the
+# face this repository should present.
+# ---------------------------------------------------------------------
+NOVELTY_BRIEF.md
+DEMO_RUNBOOK.md
+DCS_Project_Brief.md
+DCS_Anti_Jam_Review.pptx
+paper/CHECKLIST.md
+
+# Superseded draft of the manuscript; the current one lives in paper/.
+R_PAPER.pdf

@@ -1,0 +1,132 @@
+[   1.32s] COM3   | ================================
+[   1.32s] COM3   |      FIXED FREQUENCY TX
+[   1.32s] COM3   | ================================
+[   1.38s] COM14  | ================================
+[   1.38s] COM14  |    FIXED FREQUENCY RX TEST
+[   1.38s] COM14  | ================================
+[   1.52s] COM3   | CC1101 OK
+[   1.52s] COM3   | Frequency: 433.05 MHz
+[   1.52s] COM3   | Starting 100 packet test...
+[   1.58s] COM14  | CC1101 OK
+[   1.58s] COM14  | Frequency: 433.05 MHz
+[   1.58s] COM14  | Emulated denial: YES
+[   1.58s] COM14  | Waiting for 100 packets...
+[   1.92s] COM3   | TX: SEQ:0
+[   3.13s] COM3   | TX: SEQ:1
+[   4.33s] COM3   | TX: SEQ:2
+[   5.53s] COM3   | TX: SEQ:3
+[   6.74s] COM3   | TX: SEQ:4
+[   7.94s] COM3   | TX: SEQ:5
+[   9.15s] COM3   | TX: SEQ:6
+[  10.35s] COM3   | TX: SEQ:7
+[  11.55s] COM3   | TX: SEQ:8
+[  12.76s] COM3   | TX: SEQ:9
+[  13.96s] COM3   | TX: SEQ:10
+[  15.16s] COM3   | TX: SEQ:11
+[  16.36s] COM3   | TX: SEQ:12
+[  17.57s] COM3   | TX: SEQ:13
+[  18.77s] COM3   | TX: SEQ:14
+[  19.98s] COM3   | TX: SEQ:15
+[  21.18s] COM3   | TX: SEQ:16
+[  22.39s] COM3   | TX: SEQ:17
+[  23.59s] COM3   | TX: SEQ:18
+[  24.79s] COM3   | TX: SEQ:19
+[  26.00s] COM3   | TX: SEQ:20
+[  27.20s] COM3   | TX: SEQ:21
+[  28.40s] COM3   | TX: SEQ:22
+[  29.61s] COM3   | TX: SEQ:23
+[  30.81s] COM3   | TX: SEQ:24
+[  32.01s] COM3   | TX: SEQ:25
+[  33.22s] COM3   | TX: SEQ:26
+[  34.42s] COM3   | TX: SEQ:27
+[  35.63s] COM3   | TX: SEQ:28
+[  36.83s] COM3   | TX: SEQ:29
+[  38.03s] COM3   | TX: SEQ:30
+[  39.24s] COM3   | TX: SEQ:31
+[  40.44s] COM3   | TX: SEQ:32
+[  41.64s] COM3   | TX: SEQ:33
+[  42.85s] COM3   | TX: SEQ:34
+[  44.05s] COM3   | TX: SEQ:35
+[  45.26s] COM3   | TX: SEQ:36
+[  46.46s] COM3   | TX: SEQ:37
+[  47.66s] COM3   | TX: SEQ:38
+[  48.86s] COM3   | TX: SEQ:39
+[  50.07s] COM3   | TX: SEQ:40
+[  51.27s] COM3   | TX: SEQ:41
+[  52.27s] COM3   | TX: SEQ:42
+[  53.48s] COM3   | TX: SEQ:43
+[  54.68s] COM3   | TX: SEQ:44
+[  55.88s] COM3   | TX: SEQ:45
+[  57.09s] COM3   | TX: SEQ:46
+[  58.29s] COM3   | TX: SEQ:47
+[  59.50s] COM3   | TX: SEQ:48
+[  60.70s] COM3   | TX: SEQ:49
+[  61.90s] COM3   | TX: SEQ:50
+[  63.11s] COM3   | TX: SEQ:51
+[  64.31s] COM3   | TX: SEQ:52
+[  65.52s] COM3   | TX: SEQ:53
+[  66.72s] COM3   | TX: SEQ:54
+[  67.92s] COM3   | TX: SEQ:55
+[  69.13s] COM3   | TX: SEQ:56
+[  70.33s] COM3   | TX: SEQ:57
+[  71.53s] COM3   | TX: SEQ:58
+[  72.74s] COM3   | TX: SEQ:59
+[  73.94s] COM3   | TX: SEQ:60
+[  75.15s] COM3   | TX: SEQ:61
+[  76.35s] COM3   | TX: SEQ:62
+[  77.55s] COM3   | TX: SEQ:63
+[  78.75s] COM3   | TX: SEQ:64
+[  79.96s] COM3   | TX: SEQ:65
+[  81.16s] COM3   | TX: SEQ:66
+[  82.36s] COM3   | TX: SEQ:67
+[  83.57s] COM3   | TX: SEQ:68
+[  84.77s] COM3   | TX: SEQ:69
+[  85.98s] COM3   | TX: SEQ:70
+[  87.18s] COM3   | TX: SEQ:71
+[  88.38s] COM3   | TX: SEQ:72
+[  89.59s] COM3   | TX: SEQ:73
+[  90.79s] COM3   | TX: SEQ:74
+[  91.99s] COM3   | TX: SEQ:75
+[  93.20s] COM3   | TX: SEQ:76
+[  94.40s] COM3   | TX: SEQ:77
+[  95.60s] COM3   | TX: SEQ:78
+[  96.81s] COM3   | TX: SEQ:79
+[  98.01s] COM3   | TX: SEQ:80
+[  99.22s] COM3   | TX: SEQ:81
+[ 100.42s] COM3   | TX: SEQ:82
+[ 101.63s] COM3   | TX: SEQ:83
+[ 102.83s] COM3   | TX: SEQ:84
+[ 104.03s] COM3   | TX: SEQ:85
+[ 105.24s] COM3   | TX: SEQ:86
+[ 106.44s] COM3   | TX: SEQ:87
+[ 107.65s] COM3   | TX: SEQ:88
+[ 108.85s] COM3   | TX: SEQ:89
+[ 110.05s] COM3   | TX: SEQ:90
+[ 111.25s] COM3   | TX: SEQ:91
+[ 112.46s] COM3   | TX: SEQ:92
+[ 113.66s] COM3   | TX: SEQ:93
+[ 114.86s] COM3   | TX: SEQ:94
+[ 116.07s] COM3   | TX: SEQ:95
+[ 117.27s] COM3   | TX: SEQ:96
+[ 118.28s] COM3   | TX: SEQ:97
+[ 119.48s] COM3   | TX: SEQ:98
+[ 120.68s] COM3   | TX: SEQ:99
+[ 121.49s] COM3   | ================================
+[ 121.49s] COM3   |        TX TEST COMPLETE
+[ 121.49s] COM3   | ================================
+[ 129.49s] COM14  | ets Jul 29 2019 12:21:46
+[ 129.49s] COM14  | rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+[ 129.49s] COM14  | configsip: 0, SPIWP:0xee
+[ 129.49s] COM14  | clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+[ 129.49s] COM14  | mode:DIO, clock div:1
+[ 129.49s] COM14  | load:0x3fff0030,len:4980
+[ 129.69s] COM14  | load:0x40078000,len:16612
+[ 129.69s] COM14  | load:0x40080400,len:3480
+[ 129.69s] COM14  | entry 0x400805b4
+[ 130.69s] COM14  | ================================
+[ 130.69s] COM14  |    FIXED FREQUENCY RX TEST
+[ 130.70s] COM14  | ================================
+[ 130.90s] COM14  | CC1101 OK
+[ 130.90s] COM14  | Frequency: 433.05 MHz
+[ 130.90s] COM14  | Emulated denial: YES
+[ 130.90s] COM14  | Waiting for 100 packets...

@@ -1,0 +1,24 @@
+[   1.42s] COM3   | ================================
+[   1.42s] COM3   |      FIXED FREQUENCY TX
+[   1.42s] COM3   | ================================
+[   1.47s] COM14  | ================================
+[   1.47s] COM14  |    FIXED FREQUENCY RX TEST
+[   1.47s] COM14  | ================================
+[   1.62s] COM3   | CC1101 OK
+[   1.62s] COM3   | Frequency: 433.05 MHz
+[   1.62s] COM3   | Starting 100 packet test...
+[   1.67s] COM14  | CC1101 OK
+[   1.67s] COM14  | Frequency: 433.05 MHz
+[   1.67s] COM14  | Emulated denial: YES
+[   1.67s] COM14  | Waiting for 100 packets...
+[   2.02s] COM3   | TX: SEQ:0
+[   3.22s] COM3   | TX: SEQ:1
+[   4.43s] COM3   | TX: SEQ:2
+[   5.63s] COM3   | TX: SEQ:3
+[   6.83s] COM3   | TX: SEQ:4
+[   8.04s] COM3   | TX: SEQ:5
+[   9.24s] COM3   | TX: SEQ:6
+[  10.44s] COM3   | TX: SEQ:7
+[  11.64s] COM3   | TX: SEQ:8
+[  12.85s] COM3   | TX: SEQ:9
+[  14.05s] COM3   | TX: SEQ:10

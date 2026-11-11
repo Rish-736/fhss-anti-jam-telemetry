@@ -1,0 +1,196 @@
+[   1.38s] COM3   | ================================
+[   1.38s] COM3   |         BASIC FHSS TX
+[   1.38s] COM3   | ================================
+[   1.42s] COM14  | ================================
+[   1.42s] COM14  |           FHSS RX
+[   1.42s] COM14  | ================================
+[   1.59s] COM3   | CC1101 OK
+[   1.59s] COM3   | FHSS frequencies:
+[   1.59s] COM3   | Hop 0: 433.05 MHz
+[   1.59s] COM3   | Hop 1: 433.25 MHz
+[   1.59s] COM3   | Hop 2: 433.45 MHz
+[   1.59s] COM3   | Hop 3: 433.65 MHz
+[   1.59s] COM3   | Hop 4: 433.85 MHz
+[   1.59s] COM3   | Starting 100 packet FHSS test...
+[   1.63s] COM14  | CC1101 OK
+[   1.63s] COM14  | Mode: BASIC | resync: OFF
+[   1.63s] COM14  | Denied channels (emulated): 433.45 
+[   1.63s] COM14  | Initial frequency: 433.05 MHz
+[   1.63s] COM14  | Waiting for packets...
+[   2.00s] COM3   | TX: SEQ:0,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[   2.87s] COM14  | RX: SEQ:1,NEXT:2 | FREQ: 433.05 MHz | RSSI: -43 dBm | Received: 1/100
+[   3.24s] COM3   | TX: SEQ:1,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[   4.09s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[   4.49s] COM3   | TX: SEQ:2,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[   5.13s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[   5.54s] COM3   | TX: SEQ:3,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[   6.76s] COM3   | TX: SEQ:4,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[   7.99s] COM3   | TX: SEQ:5,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[   9.22s] COM3   | TX: SEQ:6,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  10.05s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  10.46s] COM3   | TX: SEQ:7,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  11.29s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  11.70s] COM3   | TX: SEQ:8,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  12.75s] COM3   | TX: SEQ:9,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  14.00s] COM3   | TX: SEQ:10,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  14.82s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  15.24s] COM3   | TX: SEQ:11,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  16.05s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  16.48s] COM3   | TX: SEQ:12,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  17.29s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  17.55s] COM3   | TX: SEQ:13,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  18.78s] COM3   | TX: SEQ:14,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  20.00s] COM3   | TX: SEQ:15,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  20.79s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  21.22s] COM3   | TX: SEQ:16,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  22.04s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  22.45s] COM3   | TX: SEQ:17,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  23.29s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  23.70s] COM3   | TX: SEQ:18,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  24.72s] COM3   | TX: SEQ:19,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  25.94s] COM3   | TX: SEQ:20,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  26.78s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  27.17s] COM3   | TX: SEQ:21,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  28.01s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  28.41s] COM3   | TX: SEQ:22,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  29.25s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  29.65s] COM3   | TX: SEQ:23,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  30.90s] COM3   | TX: SEQ:24,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  31.96s] COM3   | TX: SEQ:25,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  33.20s] COM3   | TX: SEQ:26,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  34.04s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  34.45s] COM3   | TX: SEQ:27,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  35.26s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  35.68s] COM3   | TX: SEQ:28,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  36.92s] COM3   | TX: SEQ:29,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  37.96s] COM3   | TX: SEQ:30,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  39.20s] COM3   | TX: SEQ:31,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  40.04s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  40.45s] COM3   | TX: SEQ:32,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  41.28s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  41.69s] COM3   | TX: SEQ:33,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  42.91s] COM3   | TX: SEQ:34,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  43.95s] COM3   | TX: SEQ:35,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  44.78s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  45.20s] COM3   | TX: SEQ:36,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  46.00s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  46.44s] COM3   | TX: SEQ:37,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  47.25s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  47.68s] COM3   | TX: SEQ:38,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  48.72s] COM3   | TX: SEQ:39,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  49.94s] COM3   | TX: SEQ:40,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  50.75s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  51.18s] COM3   | TX: SEQ:41,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  51.99s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  52.42s] COM3   | TX: SEQ:42,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  53.24s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  53.65s] COM3   | TX: SEQ:43,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  54.90s] COM3   | TX: SEQ:44,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  56.12s] COM3   | TX: SEQ:45,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  57.16s] COM3   | TX: SEQ:46,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  57.97s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  58.38s] COM3   | TX: SEQ:47,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  59.21s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  59.63s] COM3   | TX: SEQ:48,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  60.86s] COM3   | TX: SEQ:49,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  62.10s] COM3   | TX: SEQ:50,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  62.72s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  63.13s] COM3   | TX: SEQ:51,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  63.96s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  64.37s] COM3   | TX: SEQ:52,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  65.20s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  65.62s] COM3   | TX: SEQ:53,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  66.86s] COM3   | TX: SEQ:54,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  68.11s] COM3   | TX: SEQ:55,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  69.15s] COM3   | TX: SEQ:56,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  69.98s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  70.39s] COM3   | TX: SEQ:57,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  71.23s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  71.63s] COM3   | TX: SEQ:58,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  72.89s] COM3   | TX: SEQ:59,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  73.92s] COM3   | TX: SEQ:60,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  75.16s] COM3   | TX: SEQ:61,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  75.99s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  76.40s] COM3   | TX: SEQ:62,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  77.23s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  77.65s] COM3   | TX: SEQ:63,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  78.91s] COM3   | TX: SEQ:64,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  79.92s] COM3   | TX: SEQ:65,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  81.18s] COM3   | TX: SEQ:66,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  82.03s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  82.43s] COM3   | TX: SEQ:67,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  83.29s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  83.68s] COM3   | TX: SEQ:68,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  84.92s] COM3   | TX: SEQ:69,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  85.97s] COM3   | TX: SEQ:70,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  86.80s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  87.21s] COM3   | TX: SEQ:71,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  88.04s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  88.47s] COM3   | TX: SEQ:72,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  89.28s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  89.71s] COM3   | TX: SEQ:73,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  90.75s] COM3   | TX: SEQ:74,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  92.00s] COM3   | TX: SEQ:75,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  92.84s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  93.26s] COM3   | TX: SEQ:76,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  94.11s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  94.51s] COM3   | TX: SEQ:77,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  95.15s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[  95.53s] COM3   | TX: SEQ:78,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  96.80s] COM3   | TX: SEQ:79,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  98.03s] COM3   | TX: SEQ:80,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  99.27s] COM3   | TX: SEQ:81,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  99.92s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 100.51s] COM3   | TX: SEQ:82,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 101.15s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 101.55s] COM3   | TX: SEQ:83,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 102.81s] COM3   | TX: SEQ:84,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 104.06s] COM3   | TX: SEQ:85,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[ 104.89s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 105.30s] COM3   | TX: SEQ:86,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 105.94s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 106.34s] COM3   | TX: SEQ:87,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 107.20s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 107.56s] COM3   | TX: SEQ:88,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 108.80s] COM3   | TX: SEQ:89,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 110.04s] COM3   | TX: SEQ:90,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[ 110.73s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 111.28s] COM3   | TX: SEQ:91,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 111.97s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 112.52s] COM3   | TX: SEQ:92,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 113.23s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 113.54s] COM3   | TX: SEQ:93,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 114.78s] COM3   | TX: SEQ:94,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 116.01s] COM3   | TX: SEQ:95,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[ 117.27s] COM3   | TX: SEQ:96,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 118.01s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 118.51s] COM3   | TX: SEQ:97,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 119.26s] COM14  |    [denied] dropped a packet on 433.45 MHz
+[ 119.55s] COM3   | TX: SEQ:98,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 120.79s] COM3   | TX: SEQ:99,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 121.62s] COM3   | ================================
+[ 121.62s] COM3   |        FHSS TX COMPLETE
+[ 121.62s] COM3   | ================================
+[ 134.14s] COM14  | (idle timeout reached - ending run)
+[ 134.14s] COM14  | ================================
+[ 134.14s] COM14  |        FHSS TEST COMPLETE
+[ 134.14s] COM14  | ================================
+[ 134.14s] COM14  | Mode             : BASIC (no resync)
+[ 134.14s] COM14  | Denied channels  : 1
+[ 134.14s] COM14  | Packets sent     : 100
+[ 134.14s] COM14  | Packets received : 1
+[ 134.16s] COM14  | Packets lost     : 99
+[ 134.16s] COM14  | Packet loss      : 99.00 %
+[ 134.16s] COM14  | Denied drops     : 50
+[ 134.16s] COM14  | Resync events    : 0
+[ 134.16s] COM14  | Average RSSI     : -43.0 dBm
+[ 134.16s] COM14  | --------------------------------
+[ 134.16s] COM14  | Packets received per channel:
+[ 134.16s] COM14  |   433.05 MHz : 1
+[ 134.16s] COM14  |   433.25 MHz : 0
+[ 134.16s] COM14  |   433.45 MHz : 0   <- denied
+[ 134.37s] COM14  |   433.65 MHz : 0
+[ 134.37s] COM14  |   433.85 MHz : 0
+[ 134.37s] COM14  | ================================
+[ 134.37s] COM14  | CSV,mode,resync,denied_count,sent,received,lost,loss_pct,avg_rssi,resync_events
+[ 134.37s] COM14  | CSV,BASIC,0,1,100,1,99,99.00,-43.0,0

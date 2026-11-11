@@ -1,0 +1,10 @@
+run_id,mode,resync,denied_count,sent,received,lost,loss_pct,avg_rssi,resync_events,notes
+1,FIXED,0,0,100,100,0,0.00,-53.2,0,"Fixed frequency, nothing denied"
+2,FIXED,0,1,100,0,100,100.00,NA,0,101 denied drops
+3,BASIC,0,0,100,95,5,5.00,-58.3,0,"Basic FHSS, nothing denied"
+4,BASIC,0,1,100,2,98,98.00,-66.5,0,20 denied drops
+5,BASIC,1,1,100,40,60,60.00,-52.2,47,20 denied drops; 47 resyncs
+6,BASIC,1,2,100,40,60,60.00,-64.4,47,19 denied drops; 47 resyncs
+7,ADAPTIVE,1,0,100,100,0,0.00,-55.1,1,101 channel senses; 1 resyncs
+8,ADAPTIVE,1,1,100,98,2,2.00,-56.4,2,26 occupied detections; 128 channel senses; 2 resyncs
+9,ADAPTIVE,1,2,100,99,1,1.00,-55.4,2,67 occupied detections; 169 channel senses; 2 resyncs

@@ -1,0 +1,24 @@
+[   1.48s] COM14  | ================================
+[   1.48s] COM14  |    FIXED FREQUENCY RX TEST
+[   1.48s] COM14  | ================================
+[   1.68s] COM14  | CC1101 OK
+[   1.68s] COM14  | Frequency: 433.05 MHz
+[   1.68s] COM14  | Emulated denial: no
+[   1.68s] COM14  | Waiting for 100 packets...
+[  12.66s] COM3   | ets Jul 29 2019 12:21:46
+[  12.66s] COM3   | rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+[  12.66s] COM3   | waiting for download
+[  16.57s] COM14  | (idle timeout reached - ending run)
+[  16.57s] COM14  | ================================
+[  16.58s] COM14  |      FIXED TEST COMPLETE
+[  16.58s] COM14  | ================================
+[  16.58s] COM14  | Mode             : FIXED
+[  16.58s] COM14  | Packets sent     : 100
+[  16.58s] COM14  | Packets received : 0
+[  16.58s] COM14  | Packets lost     : 100
+[  16.78s] COM14  | Packet loss      : 100.00 %
+[  16.78s] COM14  | Denied drops     : 0
+[  16.78s] COM14  | Average RSSI     : n/a (no packets)
+[  16.78s] COM14  | ================================
+[  16.78s] COM14  | CSV,mode,denied,sent,received,lost,loss_pct,avg_rssi
+[  16.78s] COM14  | CSV,FIXED,0,100,0,100,100.00,NA

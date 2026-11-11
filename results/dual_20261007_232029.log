@@ -1,0 +1,160 @@
+[   1.32s] COM3   | ================================
+[   1.32s] COM3   |      FIXED FREQUENCY TX
+[   1.32s] COM3   | ================================
+[   1.38s] COM14  | ================================
+[   1.38s] COM14  |    FIXED FREQUENCY RX TEST
+[   1.38s] COM14  | ================================
+[   1.52s] COM3   | CC1101 OK
+[   1.52s] COM3   | Frequency: 433.05 MHz
+[   1.52s] COM3   | Starting 100 packet test...
+[   1.58s] COM14  | CC1101 OK
+[   1.58s] COM14  | Frequency: 433.05 MHz
+[   1.58s] COM14  | Emulated denial: no
+[   1.58s] COM14  | Waiting for 100 packets...
+[   1.93s] COM3   | TX: SEQ:0
+[   2.79s] COM14  | RX SEQ:1 | RSSI:-50 dBm | Received:1/100
+[   3.13s] COM3   | TX: SEQ:1
+[   3.99s] COM14  | RX SEQ:2 | RSSI:-50 dBm | Received:2/100
+[   4.34s] COM3   | TX: SEQ:2
+[   5.19s] COM14  | RX SEQ:3 | RSSI:-50 dBm | Received:3/100
+[   5.54s] COM3   | TX: SEQ:3
+[   6.40s] COM14  | RX SEQ:4 | RSSI:-50 dBm | Received:4/100
+[   6.74s] COM3   | TX: SEQ:4
+[   7.60s] COM14  | RX SEQ:5 | RSSI:-47 dBm | Received:5/100
+[   7.95s] COM3   | TX: SEQ:5
+[   8.80s] COM14  | RX SEQ:6 | RSSI:-47 dBm | Received:6/100
+[   9.15s] COM3   | TX: SEQ:6
+[  10.01s] COM14  | RX SEQ:7 | RSSI:-47 dBm | Received:7/100
+[  10.36s] COM3   | TX: SEQ:7
+[  11.21s] COM14  | RX SEQ:8 | RSSI:-50 dBm | Received:8/100
+[  11.56s] COM3   | TX: SEQ:8
+[  12.41s] COM14  | RX SEQ:9 | RSSI:-50 dBm | Received:9/100
+[  12.76s] COM3   | TX: SEQ:9
+[  13.62s] COM14  | RX SEQ:10 | RSSI:-50 dBm | Received:10/100
+[  13.97s] COM3   | TX: SEQ:10
+[  14.82s] COM14  | RX SEQ:11 | RSSI:-50 dBm | Received:11/100
+[  15.17s] COM3   | TX: SEQ:11
+[  16.03s] COM14  | RX SEQ:12 | RSSI:-51 dBm | Received:12/100
+[  16.37s] COM3   | TX: SEQ:12
+[  17.23s] COM14  | RX SEQ:13 | RSSI:-50 dBm | Received:13/100
+[  17.58s] COM3   | TX: SEQ:13
+[  18.43s] COM14  | RX SEQ:14 | RSSI:-50 dBm | Received:14/100
+[  18.78s] COM3   | TX: SEQ:14
+[  19.64s] COM14  | RX SEQ:15 | RSSI:-50 dBm | Received:15/100
+[  19.98s] COM3   | TX: SEQ:15
+[  20.84s] COM14  | RX SEQ:16 | RSSI:-47 dBm | Received:16/100
+[  21.19s] COM3   | TX: SEQ:16
+[  22.04s] COM14  | RX SEQ:17 | RSSI:-58 dBm | Received:17/100
+[  22.39s] COM3   | TX: SEQ:17
+[  23.25s] COM14  | RX SEQ:18 | RSSI:-42 dBm | Received:18/100
+[  23.59s] COM3   | TX: SEQ:18
+[  24.45s] COM14  | RX SEQ:19 | RSSI:-43 dBm | Received:19/100
+[  24.80s] COM3   | TX: SEQ:19
+[  25.65s] COM14  | RX SEQ:20 | RSSI:-45 dBm | Received:20/100
+[  26.00s] COM3   | TX: SEQ:20
+[  26.86s] COM14  | RX SEQ:21 | RSSI:-45 dBm | Received:21/100
+[  27.20s] COM3   | TX: SEQ:21
+[  28.06s] COM14  | RX SEQ:22 | RSSI:-45 dBm | Received:22/100
+[  28.41s] COM3   | TX: SEQ:22
+[  29.26s] COM14  | RX SEQ:23 | RSSI:-45 dBm | Received:23/100
+[  29.61s] COM3   | TX: SEQ:23
+[  30.47s] COM14  | RX SEQ:24 | RSSI:-45 dBm | Received:24/100
+[  30.82s] COM3   | TX: SEQ:24
+[  31.67s] COM14  | RX SEQ:25 | RSSI:-45 dBm | Received:25/100
+[  32.02s] COM3   | TX: SEQ:25
+[  32.68s] COM14  | RX SEQ:26 | RSSI:-45 dBm | Received:26/100
+[  33.22s] COM3   | TX: SEQ:26
+[  33.88s] COM14  | RX SEQ:27 | RSSI:-45 dBm | Received:27/100
+[  34.43s] COM3   | TX: SEQ:27
+[  35.08s] COM14  | RX SEQ:28 | RSSI:-44 dBm | Received:28/100
+[  35.63s] COM3   | TX: SEQ:28
+[  36.29s] COM14  | RX SEQ:29 | RSSI:-45 dBm | Received:29/100
+[  36.84s] COM3   | TX: SEQ:29
+[  37.49s] COM14  | RX SEQ:30 | RSSI:-45 dBm | Received:30/100
+[  38.04s] COM3   | TX: SEQ:30
+[  38.70s] COM14  | RX SEQ:31 | RSSI:-45 dBm | Received:31/100
+[  39.24s] COM3   | TX: SEQ:31
+[  39.90s] COM14  | RX SEQ:32 | RSSI:-45 dBm | Received:32/100
+[  40.44s] COM3   | TX: SEQ:32
+[  41.10s] COM14  | RX SEQ:33 | RSSI:-45 dBm | Received:33/100
+[  41.65s] COM3   | TX: SEQ:33
+[  42.31s] COM14  | RX SEQ:34 | RSSI:-45 dBm | Received:34/100
+[  42.85s] COM3   | TX: SEQ:34
+[  43.51s] COM14  | RX SEQ:35 | RSSI:-45 dBm | Received:35/100
+[  44.05s] COM3   | TX: SEQ:35
+[  44.72s] COM14  | RX SEQ:36 | RSSI:-45 dBm | Received:36/100
+[  45.26s] COM3   | TX: SEQ:36
+[  45.92s] COM14  | RX SEQ:37 | RSSI:-45 dBm | Received:37/100
+[  46.46s] COM3   | TX: SEQ:37
+[  47.13s] COM14  | RX SEQ:38 | RSSI:-45 dBm | Received:38/100
+[  47.66s] COM3   | TX: SEQ:38
+[  48.33s] COM14  | RX SEQ:39 | RSSI:-45 dBm | Received:39/100
+[  48.86s] COM3   | TX: SEQ:39
+[  49.53s] COM14  | RX SEQ:40 | RSSI:-45 dBm | Received:40/100
+[  50.07s] COM3   | TX: SEQ:40
+[  50.74s] COM14  | RX SEQ:41 | RSSI:-45 dBm | Received:41/100
+[  51.27s] COM3   | TX: SEQ:41
+[  51.94s] COM14  | RX SEQ:42 | RSSI:-45 dBm | Received:42/100
+[  52.27s] COM3   | TX: SEQ:42
+[  53.15s] COM14  | RX SEQ:43 | RSSI:-45 dBm | Received:43/100
+[  53.48s] COM3   | TX: SEQ:43
+[  54.35s] COM14  | RX SEQ:44 | RSSI:-45 dBm | Received:44/100
+[  54.68s] COM3   | TX: SEQ:44
+[  55.55s] COM14  | RX SEQ:45 | RSSI:-45 dBm | Received:45/100
+[  55.88s] COM3   | TX: SEQ:45
+[  56.76s] COM14  | RX SEQ:46 | RSSI:-45 dBm | Received:46/100
+[  57.09s] COM3   | TX: SEQ:46
+[  57.96s] COM14  | RX SEQ:47 | RSSI:-45 dBm | Received:47/100
+[  58.29s] COM3   | TX: SEQ:47
+[  59.16s] COM14  | RX SEQ:48 | RSSI:-45 dBm | Received:48/100
+[  59.50s] COM3   | TX: SEQ:48
+[  60.37s] COM14  | RX SEQ:49 | RSSI:-45 dBm | Received:49/100
+[  60.70s] COM3   | TX: SEQ:49
+[  61.57s] COM14  | RX SEQ:50 | RSSI:-45 dBm | Received:50/100
+[  61.91s] COM3   | TX: SEQ:50
+[  62.78s] COM14  | RX SEQ:51 | RSSI:-45 dBm | Received:51/100
+[  63.11s] COM3   | TX: SEQ:51
+[  63.98s] COM14  | RX SEQ:52 | RSSI:-45 dBm | Received:52/100
+[  64.31s] COM3   | TX: SEQ:52
+[  65.18s] COM14  | RX SEQ:53 | RSSI:-45 dBm | Received:53/100
+[  65.52s] COM3   | TX: SEQ:53
+[  66.38s] COM14  | RX SEQ:54 | RSSI:-45 dBm | Received:54/100
+[  66.72s] COM3   | TX: SEQ:54
+[  67.59s] COM14  | RX SEQ:55 | RSSI:-45 dBm | Received:55/100
+[  67.93s] COM3   | TX: SEQ:55
+[  68.79s] COM14  | RX SEQ:56 | RSSI:-45 dBm | Received:56/100
+[  69.13s] COM3   | TX: SEQ:56
+[  69.99s] COM14  | RX SEQ:57 | RSSI:-45 dBm | Received:57/100
+[  70.33s] COM3   | TX: SEQ:57
+[  71.20s] COM14  | RX SEQ:58 | RSSI:-45 dBm | Received:58/100
+[  71.54s] COM3   | TX: SEQ:58
+[  72.40s] COM14  | RX SEQ:59 | RSSI:-45 dBm | Received:59/100
+[  72.74s] COM3   | TX: SEQ:59
+[  73.61s] COM14  | RX SEQ:60 | RSSI:-45 dBm | Received:60/100
+[  73.94s] COM3   | TX: SEQ:60
+[  74.81s] COM14  | RX SEQ:61 | RSSI:-45 dBm | Received:61/100
+[  75.15s] COM3   | TX: SEQ:61
+[  76.01s] COM14  | RX SEQ:62 | RSSI:-45 dBm | Received:62/100
+[  76.35s] COM3   | TX: SEQ:62
+[  77.22s] COM14  | RX SEQ:63 | RSSI:-45 dBm | Received:63/100
+[  77.56s] COM3   | TX: SEQ:63
+[  78.42s] COM14  | RX SEQ:64 | RSSI:-45 dBm | Received:64/100
+[  78.76s] COM3   | TX: SEQ:64
+[  79.62s] COM14  | RX SEQ:65 | RSSI:-45 dBm | Received:65/100
+[  79.96s] COM3   | TX: SEQ:65
+[  80.83s] COM14  | RX SEQ:66 | RSSI:-45 dBm | Received:66/100
+[  81.17s] COM3   | TX: SEQ:66
+[  82.03s] COM14  | RX SEQ:67 | RSSI:-45 dBm | Received:67/100
+[  82.37s] COM3   | TX: SEQ:67
+[  83.24s] COM14  | RX SEQ:68 | RSSI:-45 dBm | Received:68/100
+[  83.58s] COM3   | TX: SEQ:68
+[  84.44s] COM14  | RX SEQ:69 | RSSI:-45 dBm | Received:69/100
+[  84.78s] COM3   | TX: SEQ:69
+[  85.64s] COM14  | RX SEQ:70 | RSSI:-45 dBm | Received:70/100
+[  85.98s] COM3   | TX: SEQ:70
+[  86.85s] COM14  | RX SEQ:71 | RSSI:-45 dBm | Received:71/100
+[  87.19s] COM3   | TX: SEQ:71
+[  88.05s] COM14  | RX SEQ:72 | RSSI:-45 dBm | Received:72/100
+[  88.39s] COM3   | TX: SEQ:72
+[  89.25s] COM14  | RX SEQ:73 | RSSI:-45 dBm | Received:73/100
+[  89.60s] COM3   | TX: SEQ:73

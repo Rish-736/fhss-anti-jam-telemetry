@@ -1,0 +1,9 @@
+[   1.41s] COM14  | ================================
+[   1.42s] COM14  |    FIXED FREQUENCY RX TEST
+[   1.42s] COM14  | ================================
+[   1.62s] COM14  | CC1101 OK
+[   1.62s] COM14  | Frequency: 433.05 MHz
+[   1.62s] COM14  | Emulated denial: no
+[   1.62s] COM14  | Waiting for 100 packets...
+[   1.82s] COM14  | RX SEQ:52 | RSSI:-47 dBm | Received:1/100
+[   3.02s] COM14  | RX SEQ:53 | RSSI:-50 dBm | Received:2/100

@@ -1,0 +1,53 @@
+[   1.48s] COM14  | ================================
+[   1.48s] COM14  |    FIXED FREQUENCY RX TEST
+[   1.48s] COM14  | ================================
+[   1.68s] COM14  | CC1101 OK
+[   1.68s] COM14  | Frequency: 433.05 MHz
+[   1.68s] COM14  | Emulated denial: YES
+[   1.68s] COM14  | Waiting for 100 packets...
+[   4.43s] COM3   | ets Jul 29 2019 12:21:46
+[   4.43s] COM3   | rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+[   4.43s] COM3   | configsip: 0, SPIWP:0xee
+[   4.64s] COM3   | clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+[   4.64s] COM3   | mode:DIO, clock div:1
+[   4.64s] COM3   | load:0x3fff0030,len:4980
+[   4.64s] COM3   | load:0x40078000,len:16612
+[   4.64s] COM3   | load:0x40080400,len:3480
+[   4.64s] COM3   | entry 0x400805b4
+[   5.64s] COM3   | ================================
+[   5.65s] COM3   |      FIXED FREQUENCY TX
+[   5.65s] COM3   | ================================
+[   5.85s] COM3   | CC1101 OK
+[   5.85s] COM3   | Frequency: 433.05 MHz
+[   5.85s] COM3   | Starting 100 packet test...
+[   6.45s] COM3   | TX: SEQ:0
+[   7.65s] COM3   | TX: SEQ:1
+[   8.85s] COM3   | TX: SEQ:2
+[  10.06s] COM3   | TX: SEQ:3
+[  11.26s] COM3   | TX: SEQ:4
+[  12.47s] COM3   | TX: SEQ:5
+[  13.67s] COM3   | TX: SEQ:6
+[  14.67s] COM3   | TX: SEQ:7
+[  15.88s] COM3   | TX: SEQ:8
+[  15.90s] COM14  | ets Jul 29 2019 12:21:46
+[  15.90s] COM14  | rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+[  15.90s] COM14  | configsip: 0, SPIWP:0xee
+[  15.90s] COM14  | clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+[  15.90s] COM14  | mode:DIO, clock div:1
+[  15.90s] COM14  | load:0x3fff0030,len:4980
+[  17.08s] COM3   | TX: SEQ:9
+[  18.28s] COM3   | TX: SEQ:10
+[  19.49s] COM3   | TX: SEQ:11
+[  20.69s] COM3   | TX: SEQ:12
+[  21.90s] COM3   | TX: SEQ:13
+[  23.10s] COM3   | TX: SEQ:14
+[  24.30s] COM3   | TX: SEQ:15
+[  25.51s] COM3   | TX: SEQ:16
+[  26.71s] COM3   | TX: SEQ:17
+[  27.91s] COM3   | TX: SEQ:18
+[  29.12s] COM3   | TX: SEQ:19
+[  30.32s] COM3   | TX: SEQ:20
+[  31.53s] COM3   | TX: SEQ:21
+[  32.73s] COM3   | TX: SEQ:22
+[  33.93s] COM3   | TX: SEQ:23
+[  35.13s] COM3   | TX: SEQ:24

@@ -1,0 +1,243 @@
+[   1.42s] COM3   | ================================
+[   1.42s] COM3   |         BASIC FHSS TX
+[   1.42s] COM3   | ================================
+[   1.48s] COM14  | ================================
+[   1.48s] COM14  |           FHSS RX
+[   1.48s] COM14  | ================================
+[   1.62s] COM3   | CC1101 OK
+[   1.62s] COM3   | FHSS frequencies:
+[   1.62s] COM3   | Hop 0: 433.05 MHz
+[   1.62s] COM3   | Hop 1: 433.25 MHz
+[   1.62s] COM3   | Hop 2: 433.45 MHz
+[   1.62s] COM3   | Hop 3: 433.65 MHz
+[   1.62s] COM3   | Hop 4: 433.85 MHz
+[   1.62s] COM3   | Starting 100 packet FHSS test...
+[   1.68s] COM14  | CC1101 OK
+[   1.68s] COM14  | Mode: BASIC | resync: OFF
+[   1.68s] COM14  | Denied channels (emulated): none
+[   1.68s] COM14  | Initial frequency: 433.05 MHz
+[   1.68s] COM14  | Waiting for packets...
+[   2.03s] COM3   | TX: SEQ:0,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[   2.89s] COM14  | RX: SEQ:1,NEXT:2 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 1/100
+[   3.23s] COM3   | TX: SEQ:1,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[   4.09s] COM14  | RX: SEQ:2,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 2/100
+[   4.43s] COM3   | TX: SEQ:2,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[   5.30s] COM14  | RX: SEQ:3,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 3/100
+[   5.63s] COM3   | TX: SEQ:3,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[   6.50s] COM14  | RX: SEQ:4,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 4/100
+[   6.84s] COM3   | TX: SEQ:4,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[   7.70s] COM14  | RX: SEQ:5,NEXT:1 | FREQ: 433.05 MHz | RSSI: -40 dBm | Received: 5/100
+[   8.04s] COM3   | TX: SEQ:5,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[   8.91s] COM14  | RX: SEQ:6,NEXT:2 | FREQ: 433.25 MHz | RSSI: -40 dBm | Received: 6/100
+[   9.25s] COM3   | TX: SEQ:6,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  10.11s] COM14  | RX: SEQ:7,NEXT:3 | FREQ: 433.45 MHz | RSSI: -40 dBm | Received: 7/100
+[  10.45s] COM3   | TX: SEQ:7,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  11.32s] COM14  | RX: SEQ:8,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 8/100
+[  11.65s] COM3   | TX: SEQ:8,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  12.52s] COM14  | RX: SEQ:9,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 9/100
+[  12.85s] COM3   | TX: SEQ:9,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  13.72s] COM14  | RX: SEQ:10,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 10/100
+[  14.06s] COM3   | TX: SEQ:10,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  14.93s] COM14  | RX: SEQ:11,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 11/100
+[  15.26s] COM3   | TX: SEQ:11,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  16.13s] COM14  | RX: SEQ:12,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 12/100
+[  16.46s] COM3   | TX: SEQ:12,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  17.33s] COM14  | RX: SEQ:13,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 13/100
+[  17.67s] COM3   | TX: SEQ:13,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  18.54s] COM14  | RX: SEQ:14,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 14/100
+[  18.87s] COM3   | TX: SEQ:14,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  19.74s] COM14  | RX: SEQ:15,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 15/100
+[  20.08s] COM3   | TX: SEQ:15,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  20.94s] COM14  | RX: SEQ:16,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 16/100
+[  21.28s] COM3   | TX: SEQ:16,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  22.15s] COM14  | RX: SEQ:17,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 17/100
+[  22.49s] COM3   | TX: SEQ:17,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  23.35s] COM14  | RX: SEQ:18,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 18/100
+[  23.69s] COM3   | TX: SEQ:18,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  24.56s] COM14  | RX: SEQ:19,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 19/100
+[  24.89s] COM3   | TX: SEQ:19,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  25.76s] COM14  | RX: SEQ:20,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 20/100
+[  26.10s] COM3   | TX: SEQ:20,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  26.96s] COM14  | RX: SEQ:21,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 21/100
+[  27.30s] COM3   | TX: SEQ:21,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  28.17s] COM14  | RX: SEQ:22,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 22/100
+[  28.51s] COM3   | TX: SEQ:22,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  29.37s] COM14  | RX: SEQ:23,NEXT:4 | FREQ: 433.65 MHz | RSSI: -42 dBm | Received: 23/100
+[  29.71s] COM3   | TX: SEQ:23,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  30.57s] COM14  | RX: SEQ:24,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 24/100
+[  30.91s] COM3   | TX: SEQ:24,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  31.78s] COM14  | RX: SEQ:25,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 25/100
+[  32.12s] COM3   | TX: SEQ:25,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  32.98s] COM14  | RX: SEQ:26,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 26/100
+[  33.32s] COM3   | TX: SEQ:26,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  34.18s] COM14  | RX: SEQ:27,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 27/100
+[  34.52s] COM3   | TX: SEQ:27,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  35.39s] COM14  | RX: SEQ:28,NEXT:4 | FREQ: 433.65 MHz | RSSI: -43 dBm | Received: 28/100
+[  35.72s] COM3   | TX: SEQ:28,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  36.39s] COM14  | RX: SEQ:29,NEXT:0 | FREQ: 433.85 MHz | RSSI: -45 dBm | Received: 29/100
+[  36.93s] COM3   | TX: SEQ:29,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  37.59s] COM14  | RX: SEQ:30,NEXT:1 | FREQ: 433.05 MHz | RSSI: -44 dBm | Received: 30/100
+[  38.13s] COM3   | TX: SEQ:30,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  38.80s] COM14  | RX: SEQ:31,NEXT:2 | FREQ: 433.25 MHz | RSSI: -44 dBm | Received: 31/100
+[  39.34s] COM3   | TX: SEQ:31,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  40.00s] COM14  | RX: SEQ:32,NEXT:3 | FREQ: 433.45 MHz | RSSI: -44 dBm | Received: 32/100
+[  40.54s] COM3   | TX: SEQ:32,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  41.20s] COM14  | RX: SEQ:33,NEXT:4 | FREQ: 433.65 MHz | RSSI: -44 dBm | Received: 33/100
+[  41.74s] COM3   | TX: SEQ:33,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  42.41s] COM14  | RX: SEQ:34,NEXT:0 | FREQ: 433.85 MHz | RSSI: -44 dBm | Received: 34/100
+[  42.95s] COM3   | TX: SEQ:34,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  43.61s] COM14  | RX: SEQ:35,NEXT:1 | FREQ: 433.05 MHz | RSSI: -44 dBm | Received: 35/100
+[  44.15s] COM3   | TX: SEQ:35,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  44.81s] COM14  | RX: SEQ:36,NEXT:2 | FREQ: 433.25 MHz | RSSI: -44 dBm | Received: 36/100
+[  45.36s] COM3   | TX: SEQ:36,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  46.01s] COM14  | RX: SEQ:37,NEXT:3 | FREQ: 433.45 MHz | RSSI: -44 dBm | Received: 37/100
+[  46.56s] COM3   | TX: SEQ:37,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  47.22s] COM14  | RX: SEQ:38,NEXT:4 | FREQ: 433.65 MHz | RSSI: -44 dBm | Received: 38/100
+[  47.76s] COM3   | TX: SEQ:38,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  48.42s] COM14  | RX: SEQ:39,NEXT:0 | FREQ: 433.85 MHz | RSSI: -44 dBm | Received: 39/100
+[  48.97s] COM3   | TX: SEQ:39,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  49.62s] COM14  | RX: SEQ:40,NEXT:1 | FREQ: 433.05 MHz | RSSI: -44 dBm | Received: 40/100
+[  50.17s] COM3   | TX: SEQ:40,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  50.83s] COM14  | RX: SEQ:41,NEXT:2 | FREQ: 433.25 MHz | RSSI: -44 dBm | Received: 41/100
+[  51.38s] COM3   | TX: SEQ:41,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  52.03s] COM14  | RX: SEQ:42,NEXT:3 | FREQ: 433.45 MHz | RSSI: -44 dBm | Received: 42/100
+[  52.58s] COM3   | TX: SEQ:42,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  53.24s] COM14  | RX: SEQ:43,NEXT:4 | FREQ: 433.65 MHz | RSSI: -44 dBm | Received: 43/100
+[  53.58s] COM3   | TX: SEQ:43,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  54.44s] COM14  | RX: SEQ:44,NEXT:0 | FREQ: 433.85 MHz | RSSI: -44 dBm | Received: 44/100
+[  54.79s] COM3   | TX: SEQ:44,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  55.64s] COM14  | RX: SEQ:45,NEXT:1 | FREQ: 433.05 MHz | RSSI: -44 dBm | Received: 45/100
+[  56.00s] COM3   | TX: SEQ:45,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  56.85s] COM14  | RX: SEQ:46,NEXT:2 | FREQ: 433.25 MHz | RSSI: -44 dBm | Received: 46/100
+[  57.20s] COM3   | TX: SEQ:46,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  58.05s] COM14  | RX: SEQ:47,NEXT:3 | FREQ: 433.45 MHz | RSSI: -40 dBm | Received: 47/100
+[  58.41s] COM3   | TX: SEQ:47,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  59.25s] COM14  | RX: SEQ:48,NEXT:4 | FREQ: 433.65 MHz | RSSI: -42 dBm | Received: 48/100
+[  59.61s] COM3   | TX: SEQ:48,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  60.46s] COM14  | RX: SEQ:49,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 49/100
+[  60.81s] COM3   | TX: SEQ:49,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  61.66s] COM14  | RX: SEQ:50,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 50/100
+[  62.02s] COM3   | TX: SEQ:50,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  62.87s] COM14  | RX: SEQ:51,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 51/100
+[  63.22s] COM3   | TX: SEQ:51,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  64.07s] COM14  | RX: SEQ:52,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 52/100
+[  64.43s] COM3   | TX: SEQ:52,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  65.27s] COM14  | RX: SEQ:53,NEXT:4 | FREQ: 433.65 MHz | RSSI: -38 dBm | Received: 53/100
+[  65.63s] COM3   | TX: SEQ:53,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  66.48s] COM14  | RX: SEQ:54,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 54/100
+[  66.84s] COM3   | TX: SEQ:54,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  67.68s] COM14  | RX: SEQ:55,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 55/100
+[  68.04s] COM3   | TX: SEQ:55,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  68.89s] COM14  | RX: SEQ:56,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 56/100
+[  69.24s] COM3   | TX: SEQ:56,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  70.09s] COM14  | RX: SEQ:57,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 57/100
+[  70.45s] COM3   | TX: SEQ:57,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  71.30s] COM14  | RX: SEQ:58,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 58/100
+[  71.65s] COM3   | TX: SEQ:58,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  72.50s] COM14  | RX: SEQ:59,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 59/100
+[  72.85s] COM3   | TX: SEQ:59,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  73.70s] COM14  | RX: SEQ:60,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 60/100
+[  74.06s] COM3   | TX: SEQ:60,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  74.90s] COM14  | RX: SEQ:61,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 61/100
+[  75.26s] COM3   | TX: SEQ:61,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  76.11s] COM14  | RX: SEQ:62,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 62/100
+[  76.46s] COM3   | TX: SEQ:62,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  77.31s] COM14  | RX: SEQ:63,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 63/100
+[  77.66s] COM3   | TX: SEQ:63,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  78.52s] COM14  | RX: SEQ:64,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 64/100
+[  78.87s] COM3   | TX: SEQ:64,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  79.72s] COM14  | RX: SEQ:65,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 65/100
+[  80.07s] COM3   | TX: SEQ:65,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  80.92s] COM14  | RX: SEQ:66,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 66/100
+[  81.27s] COM3   | TX: SEQ:66,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  82.12s] COM14  | RX: SEQ:67,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 67/100
+[  82.48s] COM3   | TX: SEQ:67,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  83.33s] COM14  | RX: SEQ:68,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 68/100
+[  83.68s] COM3   | TX: SEQ:68,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  84.53s] COM14  | RX: SEQ:69,NEXT:0 | FREQ: 433.85 MHz | RSSI: -42 dBm | Received: 69/100
+[  84.88s] COM3   | TX: SEQ:69,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  85.73s] COM14  | RX: SEQ:70,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 70/100
+[  86.09s] COM3   | TX: SEQ:70,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  86.94s] COM14  | RX: SEQ:71,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 71/100
+[  87.29s] COM3   | TX: SEQ:71,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  88.14s] COM14  | RX: SEQ:72,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 72/100
+[  88.49s] COM3   | TX: SEQ:72,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  89.34s] COM14  | RX: SEQ:73,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 73/100
+[  89.70s] COM3   | TX: SEQ:73,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  90.55s] COM14  | RX: SEQ:74,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 74/100
+[  90.90s] COM3   | TX: SEQ:74,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  91.75s] COM14  | RX: SEQ:75,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 75/100
+[  92.11s] COM3   | TX: SEQ:75,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  92.96s] COM14  | RX: SEQ:76,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 76/100
+[  93.31s] COM3   | TX: SEQ:76,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[  94.16s] COM14  | RX: SEQ:77,NEXT:3 | FREQ: 433.45 MHz | RSSI: -42 dBm | Received: 77/100
+[  94.51s] COM3   | TX: SEQ:77,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[  95.36s] COM14  | RX: SEQ:78,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 78/100
+[  95.71s] COM3   | TX: SEQ:78,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[  96.57s] COM14  | RX: SEQ:79,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 79/100
+[  96.92s] COM3   | TX: SEQ:79,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[  97.77s] COM14  | RX: SEQ:80,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 80/100
+[  98.12s] COM3   | TX: SEQ:80,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[  98.97s] COM14  | RX: SEQ:81,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 81/100
+[  99.32s] COM3   | TX: SEQ:81,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 100.18s] COM14  | RX: SEQ:82,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 82/100
+[ 100.52s] COM3   | TX: SEQ:82,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 101.38s] COM14  | RX: SEQ:83,NEXT:4 | FREQ: 433.65 MHz | RSSI: -42 dBm | Received: 83/100
+[ 101.73s] COM3   | TX: SEQ:83,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 102.58s] COM14  | RX: SEQ:84,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 84/100
+[ 102.93s] COM3   | TX: SEQ:84,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 103.78s] COM14  | RX: SEQ:85,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 85/100
+[ 104.13s] COM3   | TX: SEQ:85,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[ 104.99s] COM14  | RX: SEQ:86,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 86/100
+[ 105.34s] COM3   | TX: SEQ:86,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 105.99s] COM14  | RX: SEQ:87,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 87/100
+[ 106.54s] COM3   | TX: SEQ:87,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 107.19s] COM14  | RX: SEQ:88,NEXT:4 | FREQ: 433.65 MHz | RSSI: -42 dBm | Received: 88/100
+[ 107.74s] COM3   | TX: SEQ:88,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 108.40s] COM14  | RX: SEQ:89,NEXT:0 | FREQ: 433.85 MHz | RSSI: -42 dBm | Received: 89/100
+[ 108.95s] COM3   | TX: SEQ:89,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 109.60s] COM14  | RX: SEQ:90,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 90/100
+[ 110.15s] COM3   | TX: SEQ:90,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[ 110.80s] COM14  | RX: SEQ:91,NEXT:2 | FREQ: 433.25 MHz | RSSI: -41 dBm | Received: 91/100
+[ 111.36s] COM3   | TX: SEQ:91,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 112.01s] COM14  | RX: SEQ:92,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 92/100
+[ 112.56s] COM3   | TX: SEQ:92,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 113.21s] COM14  | RX: SEQ:93,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 93/100
+[ 113.76s] COM3   | TX: SEQ:93,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 114.42s] COM14  | RX: SEQ:94,NEXT:0 | FREQ: 433.85 MHz | RSSI: -42 dBm | Received: 94/100
+[ 114.97s] COM3   | TX: SEQ:94,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 115.62s] COM14  | RX: SEQ:95,NEXT:1 | FREQ: 433.05 MHz | RSSI: -41 dBm | Received: 95/100
+[ 116.17s] COM3   | TX: SEQ:95,NEXT:1 | CURRENT: 433.05 MHz | NEXT: 433.25 MHz
+[ 116.82s] COM14  | RX: SEQ:96,NEXT:2 | FREQ: 433.25 MHz | RSSI: -40 dBm | Received: 96/100
+[ 117.37s] COM3   | TX: SEQ:96,NEXT:2 | CURRENT: 433.25 MHz | NEXT: 433.45 MHz
+[ 118.03s] COM14  | RX: SEQ:97,NEXT:3 | FREQ: 433.45 MHz | RSSI: -41 dBm | Received: 97/100
+[ 118.58s] COM3   | TX: SEQ:97,NEXT:3 | CURRENT: 433.45 MHz | NEXT: 433.65 MHz
+[ 119.23s] COM14  | RX: SEQ:98,NEXT:4 | FREQ: 433.65 MHz | RSSI: -41 dBm | Received: 98/100
+[ 119.78s] COM3   | TX: SEQ:98,NEXT:4 | CURRENT: 433.65 MHz | NEXT: 433.85 MHz
+[ 120.40s] COM14  | RX: SEQ:99,NEXT:0 | FREQ: 433.85 MHz | RSSI: -41 dBm | Received: 99/100
+[ 120.41s] COM14  | ================================
+[ 120.41s] COM14  |        FHSS TEST COMPLETE
+[ 120.41s] COM14  | ================================
+[ 120.41s] COM14  | Mode             : BASIC (no resync)
+[ 120.41s] COM14  | Denied channels  : 0
+[ 120.41s] COM14  | Packets sent     : 100
+[ 120.43s] COM14  | Packets received : 99
+[ 120.43s] COM14  | Packets lost     : 1
+[ 120.43s] COM14  | Packet loss      : 1.00 %
+[ 120.43s] COM14  | Denied drops     : 0
+[ 120.43s] COM14  | Resync events    : 0
+[ 120.43s] COM14  | Average RSSI     : -41.6 dBm
+[ 120.43s] COM14  | --------------------------------
+[ 120.43s] COM14  | Packets received per channel:
+[ 120.43s] COM14  |   433.05 MHz : 20
+[ 120.43s] COM14  |   433.25 MHz : 19
+[ 120.63s] COM14  |   433.45 MHz : 20
+[ 120.63s] COM14  |   433.65 MHz : 20
+[ 120.63s] COM14  |   433.85 MHz : 20
+[ 120.63s] COM14  | ================================
+[ 120.63s] COM14  | CSV,mode,resync,denied_count,sent,received,lost,loss_pct,avg_rssi,resync_events
+[ 120.63s] COM14  | CSV,BASIC,0,0,100,99,1,1.00,-41.6,0
+[ 120.98s] COM3   | TX: SEQ:99,NEXT:0 | CURRENT: 433.85 MHz | NEXT: 433.05 MHz
+[ 121.58s] COM3   | ================================
+[ 121.58s] COM3   |        FHSS TX COMPLETE
+[ 121.58s] COM3   | ================================
